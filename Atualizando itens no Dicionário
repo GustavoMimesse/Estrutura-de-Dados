@@ -1,0 +1,10 @@
+# Dicionários
+  # Utiliza index no formato de Keys e Values
+  # Aceita string, integer, float, boolean...
+
+aluno = {'nome': 'Ana', 'idade': 16, 'nota_final': 'A', 'aprovação': True}
+
+#aluno.update({'nome': 'José', 'nota_final': 'B'})
+#aluno.update({'endereço': 'Rua A'})
+
+print(aluno.get('endereço', 'Não existe'))
