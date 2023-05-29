@@ -1,0 +1,13 @@
+aluno = {
+    'nome': 'Ana',
+    'Idade': 16,
+    'Nota_Final': 'A',
+    'Aprovação': True,
+    'Matérias': ['Física', 'Matemática', 'Inglês']
+}
+
+#print(aluno.get('Matérias'))
+#print(len(aluno))
+#print(aluno.items())
+#print(aluno.keys())
+#print(aluno.values())
