@@ -1,0 +1,4 @@
+aluno = {'nome': 'Ana', 'Idade': 16, 'Nota_Final': 'A', 'Aprovação': True}
+
+for keys, values in aluno.items():
+    print(keys, values)
